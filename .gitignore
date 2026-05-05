@@ -1,0 +1,7 @@
+.venv
+.vscode
+saaketh-sodanapalli/*
+wider_face_yolo/images/*
+wider_face_yolo/labels/*
+wider_face_yolo/data.yaml
+*.png
